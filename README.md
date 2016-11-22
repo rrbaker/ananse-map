@@ -1,4 +1,4 @@
-# ananse-map
+e# ananse-map
 
 We are creating an open-source (MIT license for code, CC BY-SA 4.0 for database) map/database/API for all the innovation spaces everywhere! This Atlas will merge existing lists of community innovation spaces from disparate maps onto a single, open-source platform— with an API so our data can be easily shared across other platforms. A tagging system will enable all spaces to share goals and find collaborators across interests such as electronic waste, prosthetics, 3D printing, primary education, green materials, water purification, etc. 
 
@@ -10,7 +10,7 @@ We have three primary criteria for including a given “community innovation spa
 
 3. Innovation: promotes creativity and nurtures new ideas
 
-From July through October 2016, our team will develop, test, and then implement the platform to collaboratively host all these spaces.
+From July through December 2016, our team will develop, test, and then implement the platform to collaboratively host all these spaces.
 
 General details:
 - Visual map (split into two maps) of all spaces and events: http://anansegroup.com/mapping.html 
